@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25bfa0a6-f94a-409f-aa7c-2c2535c6aa6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Classic FizzBuzz/05 - Classic FizzBuzz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Classic FizzBuzz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Array Chunking/06 - Array Chunking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Array Chunking/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,28 +19,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05 - Classic FizzBuzz/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="459">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzzTest.java">
+        <entry file="file://$PROJECT_DIR$/06 - Array Chunking/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+            <state relative-caret-position="108">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,14 +49,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 - Max Char/src/MaxCharTest.java">
+        <entry file="file://$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunkTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="41" />
+            <state relative-caret-position="540">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,6 +92,9 @@
         <option value="$PROJECT_DIR$/05 - Classic FizzBuzz/src/Main.java" />
         <option value="$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunkTest.java" />
+        <option value="$PROJECT_DIR$/06 - Array Chunking/src/Main.java" />
+        <option value="$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunk.java" />
       </list>
     </option>
   </component>
@@ -112,23 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="03 - Data structures &amp; Algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="05 - Classic FizzBuzz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="03 - Data structures &amp; Algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="05 - Classic FizzBuzz" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,6 +128,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="03 - Data structures &amp; Algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="06 - Array Chunking" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="03 - Data structures &amp; Algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="06 - Array Chunking" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,7 +152,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547123615786" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547130860290" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -160,7 +160,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -182,10 +182,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ArrayChunkTest">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="04 - Max Char" />
+      <module name="06 - Array Chunking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayChunkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06 - Array Chunking" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayChunkTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,21 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="03 - Reverse int" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReverseIntTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayChunkTest" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.FizzBuzzTest.print_1" />
         <item itemvalue="JUnit.MaxCharTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.ReverseIntTest" />
       </list>
     </recent_temporary>
   </component>
@@ -248,24 +248,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxCharTest - 2019.01.10 at 18h 15m 35s.xml">
-      <configuration name="MaxCharTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 18h 54m 29s.xml">
-      <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 18h 59m 12s.xml">
-      <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 18h 59m 48s.xml">
-      <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 19h 00m 04s.xml">
-      <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 19h 00m 12s.xml">
-      <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 19h 01m 01s.xml">
       <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
     </history-entry>
@@ -277,6 +259,24 @@
     </history-entry>
     <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 19h 04m 42s.xml">
       <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest_print_1 - 2019.01.10 at 19h 33m 31s.xml">
+      <configuration name="FizzBuzzTest.print_1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2019.01.10 at 19h 33m 38s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayChunkTest - 2019.01.10 at 19h 56m 45s.xml">
+      <configuration name="ArrayChunkTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayChunkTest - 2019.01.10 at 21h 18m 53s.xml">
+      <configuration name="ArrayChunkTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayChunkTest - 2019.01.10 at 21h 28m 03s.xml">
+      <configuration name="ArrayChunkTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayChunkTest - 2019.01.10 at 21h 31m 37s.xml">
+      <configuration name="ArrayChunkTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -292,7 +292,7 @@
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13883379" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07497025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -313,7 +313,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3296355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24970178" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24990083" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -502,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+        <state>
+          <caret selection-end-line="6" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -512,8 +512,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05 - Classic FizzBuzz/src/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2051">
+          <caret line="164" column="18" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - Array Chunking/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - Array Chunking/src/ArrayChunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -569,7 +614,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>05 - Classic FizzBuzz</last-edited>
+          <last-edited>06 - Array Chunking</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

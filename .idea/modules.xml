@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/03 - Reverse int/03 - Reverse int.iml" filepath="$PROJECT_DIR$/03 - Reverse int/03 - Reverse int.iml" />
       <module fileurl="file://$PROJECT_DIR$/04 - Max Char/04 - Max Char.iml" filepath="$PROJECT_DIR$/04 - Max Char/04 - Max Char.iml" />
       <module fileurl="file://$PROJECT_DIR$/05 - Classic FizzBuzz/05 - Classic FizzBuzz.iml" filepath="$PROJECT_DIR$/05 - Classic FizzBuzz/05 - Classic FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Array Chunking/06 - Array Chunking.iml" filepath="$PROJECT_DIR$/06 - Array Chunking/06 - Array Chunking.iml" />
     </modules>
   </component>
 </project>
