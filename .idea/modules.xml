@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - String Reversal/01 - String Reversal.iml" filepath="$PROJECT_DIR$/01 - String Reversal/01 - String Reversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Palindrome/02 - Palindrome.iml" filepath="$PROJECT_DIR$/02 - Palindrome/02 - Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Data structures &amp; Algorithm.iml" filepath="$PROJECT_DIR$/03 - Data structures &amp; Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Reverse int/03 - Reverse int.iml" filepath="$PROJECT_DIR$/03 - Reverse int/03 - Reverse int.iml" />
+    </modules>
+  </component>
+</project>
