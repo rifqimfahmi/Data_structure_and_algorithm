@@ -2,7 +2,7 @@ import java.util.*;
 
 public class GraphSimulation {
 
-    private static class Graph {
+    static class Graph {
 
         private int size;
         private LinkedList<Integer>[] nodes;
@@ -34,10 +34,6 @@ public class GraphSimulation {
         graph.addEdge(2, 3);
         graph.addEdge(3, 3);
 
-
-//        for (int i = 0; i < 4; i++) {
-//
-//        }
         boolean[] dfsTrack = new boolean[4];
         dfs(2, graph, dfsTrack);
         System.out.println();
@@ -46,7 +42,7 @@ public class GraphSimulation {
         bfs(2, graph, bfsTrack);
      }
 
-    private static void bfs(int n, Graph graph, boolean[] isVisited) {
+    static void bfs(int n, Graph graph, boolean[] isVisited) {
         LinkedList<Integer> q = new LinkedList<>();
         q.add(n);
 
@@ -54,7 +50,7 @@ public class GraphSimulation {
             int node = q.poll();
             if (!isVisited[node]) {
                 isVisited[node] = true;
-                System.out.print(node + " ");
+                System.out.print(node);
                 LinkedList<Integer> adj = graph.getNode(node);
                 q.addAll(adj);
             }
@@ -62,9 +58,9 @@ public class GraphSimulation {
 
     }
 
-    private static void dfs(int node, Graph graph, boolean[] isVisited) {
+    static void dfs(int node, Graph graph, boolean[] isVisited) {
         if (isVisited[node]) return;
-        System.out.print(node + " ");
+        System.out.print(node);
         isVisited[node] = true;
         LinkedList<Integer> adj = graph.getNode(node);
         for (Integer integer : adj) {
